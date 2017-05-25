@@ -1,0 +1,3 @@
+C:/Users/Péter/Source/Repos/kutfiz_beadando/CM/buld/CMakeFiles/beadando.dir
+C:/Users/Péter/Source/Repos/kutfiz_beadando/CM/buld/CMakeFiles/ALL_BUILD.dir
+C:/Users/Péter/Source/Repos/kutfiz_beadando/CM/buld/CMakeFiles/ZERO_CHECK.dir
